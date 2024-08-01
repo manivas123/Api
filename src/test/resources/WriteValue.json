@@ -1,0 +1,26 @@
+{
+	"name": "mani",
+	"phoneNo": 912353597,
+	"id": 3456,
+	"address": [
+		{
+			"dirctName": "karur",
+			"state": "tamilnadu",
+			"stretName": "thrapurathanur"
+		},
+		{
+			"dirctName": "karur",
+			"state": "tamilnadu",
+			"stretName": "kovakulam"
+		},
+		{
+			"dirctName": "karur",
+			"state": "tamilnadu",
+			"stretName": "krishnarayapuram"
+		}
+	],
+	"company": {
+		"companyName": "manivasagam",
+		"id": 91234
+	}
+}
