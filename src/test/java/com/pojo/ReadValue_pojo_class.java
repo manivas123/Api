@@ -1,5 +1,6 @@
 package com.pojo;
 
+
 import java.util.ArrayList;
 
 public class ReadValue_pojo_class {
@@ -10,6 +11,7 @@ public class ReadValue_pojo_class {
 	private int total_pages;
 	private ArrayList<ReadValue_pojo_classDatum> data;
 	private ReadValue_pojo_classSupport support;
+	
 	public int getPage() {
 		return page;
 	}
